@@ -28,7 +28,7 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/mkn_bots_updates https://t.me/mkn_bots_updates</code>
+<code>/batch https://t.me/Mc_Group_Films https://t.me/Mc_Group_Films</code>
 
 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Mc_Film_Mainchannel><b>Mc Films Official</b></a>"""
     
